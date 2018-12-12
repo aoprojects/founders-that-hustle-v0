@@ -1,0 +1,27 @@
+/* your styles go here */
+
+.behind-survey-message {
+	position: relative;
+	z-index: -1;
+	text-align: center;
+	top: 1600px;
+}
+.footer-brand {
+	margin: 0 auto;
+	text-align: center;
+}
+.footer-brand a:hover {
+	text-underline: none;
+}
+
+.larger {
+	font-size: 60px;
+	position: relative;
+	top: 30px;
+	left: -5px;
+}
+.navbar-brand {
+	width: 70px;
+	position: relative;
+	left: -10px;
+}
